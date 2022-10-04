@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sistemi Digitali</string>
+    <string name="menu_label_1">Camera</string>
+    <string name="menu_label_2">Depth</string>
+    <string name="menu_label_3">Segmentation</string>
+    <string name="object_detection_switch"> Show Object Detection </string>
+    <string name="img_description"> Image View </string>
+    <string name="labels_text"> No labels found </string>
+</resources>
